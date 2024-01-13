@@ -49,6 +49,4 @@ I am a Software Engineer and a Full Stack Developer.
 
 ### My Stats :
 
-<div style="text-align: center;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
