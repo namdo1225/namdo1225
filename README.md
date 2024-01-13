@@ -44,3 +44,9 @@ I am a Software Engineer and a Full Stack Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" title="Webflow" alt="Webflow" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
