@@ -12,4 +12,4 @@
 <h1>Hi there, I'm Nam Do, a software engineer.</h1>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
