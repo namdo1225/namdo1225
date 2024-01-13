@@ -15,7 +15,7 @@
 ### About Me:
 
 I am a Software Engineer and a Full Stack Developer.
-- I'm working as a web development intern at the [Thaddeus Resource Center](www.thaddeus.org).
+- I'm working as a web development intern at the [Thaddeus Resource Center](https://www.thaddeus.org/).
 - Learning more about React and Full Stack development overall.
 - In my free time, I love to develop side coding projects and draw.
 
