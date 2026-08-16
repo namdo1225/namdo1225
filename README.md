@@ -14,10 +14,11 @@
 
 ### About Me:
 
-I am a Software Engineer and a Full Stack Developer.
-- I'm working as a web development intern at the [Thaddeus Resource Center](https://www.thaddeus.org/) on their web team. I am gaining web development experience using Next.js, TypeScript, and React to transition Thaddeus’ website from Webflow to DigitalOcean. I also have experience in app development using JavaScript and React Native, having worked on the app team for some time.
-- I'm learning more about React and Full Stack development overall.
-- In my free time, I love to develop side coding projects and draw.
+I'm working as a software engineer at the [Ephibian](https://www.ephibian.com/) on their retirement plan project. I am gaining full-stack development experience using Next.js, TypeScript, React, Thymeleaf, and Java to continuously improve our client's website and customer's experiences.
+
+- Help transition [Thaddeus Resource Center](https://www.thaddeus.org/)'s website from Webflow to Next.js to save on development cost and allow for full customization of the design.
+- Troubleshoot customer issues using SQL.
+- Love to develop side coding projects and draw.
 
 ---
 
