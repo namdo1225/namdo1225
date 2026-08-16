@@ -14,7 +14,7 @@
 
 ### About Me:
 
-I'm working as a software engineer at the [Ephibian](https://www.ephibian.com/) on their retirement plan project. I am gaining full-stack development experience using Next.js, TypeScript, React, Thymeleaf, and Java to continuously improve our client's website and customer's experiences.
+I'm working as a software engineer at the [Ephibian](https://www.ephibian.com/) on their retirement plan project. I am gaining full-stack development experiences using Next.js, TypeScript, React, Thymeleaf, and Java to continuously improve our client's website and customer's experiences.
 
 - Help transition [Thaddeus Resource Center](https://www.thaddeus.org/)'s website from Webflow to Next.js to save on development cost and allow for full customization of the design.
 - Troubleshoot customer issues using SQL.
