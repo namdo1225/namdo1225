@@ -50,4 +50,4 @@ I am a Software Engineer and a Full Stack Developer.
 
 ### My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=namdo1225)](https://github.com/stats-organization/github-stats-extended)
