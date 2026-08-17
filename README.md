@@ -20,6 +20,8 @@ I'm working as a software engineer at the [Ephibian](https://www.ephibian.com/) 
 - Troubleshoot customer issues using SQL.
 - Love to develop side coding projects and draw.
 
+Click here for my [resume](https://namdo1225.github.io/documents/Resume.pdf).
+
 ---
 
 ### Languages and Tools:
